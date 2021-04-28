@@ -1,2 +1,2 @@
-# Tasar-m-rnekleri
+# Veteriner klinik programı back end
 C# .Net Form
