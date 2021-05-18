@@ -1,2 +1,2 @@
-# Veteriner klinik programı back end
+# Veteriner klinik programı backend
 C# .Net Form
